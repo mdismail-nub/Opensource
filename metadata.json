@@ -1,0 +1,6 @@
+{
+  "name": "OpenSourcePath",
+  "description": "Find open-source projects matching your skills, learn what you need before contributing, and discover beginner-friendly GitHub issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
